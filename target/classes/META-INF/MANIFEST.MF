@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: udemy-rsmortgage-service-discovery-ha-latest
+Implementation-Version: 1.0
+Built-By: monojendra
+Implementation-Vendor-Id: com.rollingstone
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/udemy-rsmort
+ gage-service-discovery-ha-latest/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
